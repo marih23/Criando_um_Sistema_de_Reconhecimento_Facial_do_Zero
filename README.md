@@ -11,6 +11,7 @@ O objetivo principal deste projeto é trabalhar com as bibliotecas e frameworks 
 Deve-se detectar e reconhecer mais de uma face ao mesmo tempo, para isso é necessário:
 
 Utilizar uma rede de detecção treinada para detectar faces.
+
 Utilizar uma rede de classificação para classificar a face detectada.
 
 Para realizar este projeto, você pode utilizar os seguintes trabalhos de referência:
